@@ -36,4 +36,4 @@ Comprehensive Git and GitHub training course tailored for LeoLab workflow.
 
 ## Support
 - Slack: Message Leo with questions
-- Training repo: https://github.com/leoslab/git-training-for-tisha
+- Training repo: https://github.com/leoandtisha/git-training-for-tisha

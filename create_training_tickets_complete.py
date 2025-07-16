@@ -63,7 +63,7 @@ Comprehensive Git and GitHub training course tailored for LeoLab workflow.
 
 ## Support
 - Slack: Message Leo with questions
-- Training repo: https://github.com/leoslab/git-training-for-tisha"""
+- Training repo: https://github.com/leoandtisha/git-training-for-tisha"""
 
 print("Creating Epic...")
 epic_key = create_ticket("INFRA", "Git & GitHub Training for Tisha", epic_description, "Epic", TISHA_ID)
@@ -91,7 +91,7 @@ Since this is your first module, you need to get the training materials:
 
 3. **Download the training materials:**
    ```
-   git clone https://github.com/leoslab/git-training-for-tisha.git
+   git clone https://github.com/leoandtisha/git-training-for-tisha.git
    ```
    (This copies all training files to your computer)
 

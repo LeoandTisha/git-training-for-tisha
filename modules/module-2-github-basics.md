@@ -115,17 +115,18 @@ git pull
 
 ### Part A: Using GitHub Web Interface
 
-**Note**: Leo will create a practice repository for you. Once created:
-1. Navigate to the repository URL Leo provides
+**Practice Repository**: https://github.com/LeoandTisha/tisha-git-practice
+
+1. Navigate to the repository URL above
 2. Click the green "Code" button
 3. Copy the HTTPS URL
 
 ### Part B: Clone and Modify
 
 ```bash
-# 1. Clone the repository (replace with actual URL)
-git clone <repository-url-from-leo>
-cd <repository-name>
+# 1. Clone the repository
+git clone https://github.com/LeoandTisha/tisha-git-practice.git
+cd tisha-git-practice
 
 # 2. Create a new file
 echo "Hello from Tisha!" > tisha.txt

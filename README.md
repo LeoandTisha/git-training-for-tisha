@@ -6,7 +6,7 @@ Welcome to your personalized Git and GitHub training course! This comprehensive 
 
 1. **Clone this repository to your machine:**
    ```bash
-   git clone https://github.com/leoslab/git-training-for-tisha.git
+   git clone https://github.com/leoandtisha/git-training-for-tisha.git
    cd git-training-for-tisha
    ```
 

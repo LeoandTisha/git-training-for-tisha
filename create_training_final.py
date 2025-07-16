@@ -78,7 +78,7 @@ The subtasks below are your training modules:
 
 ## Support
 - Slack: Message Leo with questions
-- Training repo: https://github.com/leoslab/git-training-for-tisha
+- Training repo: https://github.com/leoandtisha/git-training-for-tisha
 - Each module has troubleshooting sections"""
 
 print("Creating NEW Epic with CORRECT information...")
@@ -110,7 +110,7 @@ Since this is your first module, you need to get the training materials:
 
 3. **Download the training materials:**
    ```
-   git clone https://github.com/leoslab/git-training-for-tisha.git
+   git clone https://github.com/leoandtisha/git-training-for-tisha.git
    ```
    (This copies all training files to your computer)
 

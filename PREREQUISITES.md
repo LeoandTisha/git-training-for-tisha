@@ -52,7 +52,7 @@ You'll need a text editor. VS Code is recommended:
 
 ### GitHub Account
 - Leo will provide access to the LeoLab GitHub organization
-- Make sure you can access https://github.com/leoslab
+- Make sure you can access https://github.com/leoandtisha
 
 ### Jira Access
 - Ensure you can log into https://leoslab.atlassian.net

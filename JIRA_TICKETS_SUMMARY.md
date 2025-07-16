@@ -18,7 +18,7 @@ Objectives:
 Course Structure:
 7 modules progressing from basics to advanced topics, with hands-on exercises and assessments.
 
-Training materials: https://github.com/leoslab/git-training-for-tisha
+Training materials: https://github.com/leoandtisha/git-training-for-tisha
 ```
 
 **Assignee**: Tisha  
